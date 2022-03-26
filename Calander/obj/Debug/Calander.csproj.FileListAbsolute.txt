@@ -1,0 +1,7 @@
+C:\Users\jeanl\source\repos\Calander\Calander\bin\Debug\Calander.exe.config
+C:\Users\jeanl\source\repos\Calander\Calander\bin\Debug\Calander.exe
+C:\Users\jeanl\source\repos\Calander\Calander\bin\Debug\Calander.pdb
+C:\Users\jeanl\source\repos\Calander\Calander\obj\Debug\Calander.csproj.AssemblyReference.cache
+C:\Users\jeanl\source\repos\Calander\Calander\obj\Debug\Calander.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\Calander\Calander\obj\Debug\Calander.exe
+C:\Users\jeanl\source\repos\Calander\Calander\obj\Debug\Calander.pdb
